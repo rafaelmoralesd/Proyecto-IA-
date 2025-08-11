@@ -1,4 +1,5 @@
-README: Predicción de Supervivencia en Pacientes con COVID-19 🦠
+README: Predicción de Supervivencia en Pacientes con COVID-19 
+
 Este repositorio contiene un proyecto de Inteligencia Artificial desarrollado para predecir la supervivencia de pacientes con COVID-19 basándose en un conjunto de datos médicos. El proyecto utiliza un modelo de Árbol de Decisión y técnicas de preprocesamiento de datos para lograr una predicción precisa.
 
 Estructura del Repositorio
